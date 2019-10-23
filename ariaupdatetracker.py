@@ -25,6 +25,7 @@
 
 '''
 dynamicly update aria2c goloble option:bt-tracker with trackers provided by
+url refer:https://github.com/ngosang/trackerslist
 '''
 
 from __future__ import unicode_literals
